@@ -1,8 +1,8 @@
 <?php
 // =====================================
-// 🔁 BUCLE DO-WHILE
+//  BUCLE DO-WHILE
 // =====================================
-echo "\n🌟 Bucle DO-WHILE<br>";
+echo "\n Bucle DO-WHILE<br>";
 $contador = 1;
 do {
     echo "Iteración $contador<br>";

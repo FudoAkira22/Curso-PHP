@@ -34,9 +34,9 @@
     else print "<p>quien eres?</p>";
 
     /**
-     * if():
+     * if(condicion):
      * accion a realizar
-     * elseid():
+     * elseif(condicion):
      * accion
      * endif;
      */
